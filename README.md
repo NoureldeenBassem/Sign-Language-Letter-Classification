@@ -33,7 +33,11 @@ and a 24 way softmax. Trained with Adam at 1e-3, early stopping on validation ac
 flips, since mirroring a hand sign changes its meaning). The test CSV is held out completely and
 used once, at the end.
 
-## Running the app
+## Live app
+
+https://sign-language-letter-classification-obclwkjrktzdkgwqmfqzuv.streamlit.app/
+
+## Running it locally
 
 ```bash
 pip install -r requirements.txt

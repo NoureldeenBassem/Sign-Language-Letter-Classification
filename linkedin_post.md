@@ -20,9 +20,9 @@ Under the hood: TensorFlow/Keras, three convolutional stages of 3x3 filters (32 
 
 Chasing the last 0.4% mattered less than knowing exactly which two letters it lives in.
 
-Code 👉 [REPO LINK]
+Code 👉 https://github.com/NoureldeenBassem/Sign-Language-Letter-Classification
 
-Try it 👉 [STREAMLIT LINK]
+Try it 👉 https://sign-language-letter-classification-obclwkjrktzdkgwqmfqzuv.streamlit.app/
 
 Big thanks to [INSTRUCTOR NAME], my instructor, and [MENTOR NAME], my mentor, for guidance that shaped how I approached this.
 
