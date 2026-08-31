@@ -24,7 +24,7 @@ Code 👉 https://github.com/NoureldeenBassem/Sign-Language-Letter-Classificatio
 
 Try it 👉 https://sign-language-letter-classification-obclwkjrktzdkgwqmfqzuv.streamlit.app/
 
-Big thanks to [INSTRUCTOR NAME], my instructor, and [MENTOR NAME], my mentor, for guidance that shaped how I approached this.
+Big thanks to Waled Saied, my instructor, and Iyad Mahdy, my mentor, for guidance that shaped how I approached this.
 
 Feedback is welcome, especially from anyone who has worked with sign language data or classes this visually close.
 
